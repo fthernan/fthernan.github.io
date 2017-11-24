@@ -1,0 +1,13 @@
+<header>
+  <div class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></div>
+	<hr/>
+  <nav>
+		<ul>
+      <li class="category{% if page.url == '/' %} current{% endif %}"><a href="{{ site.url }}">home</a></li>
+    {% assign categories = "portfolio-about-contact" | split: "-" %}
+    {% for category in categories %}
+      <li class="category{% if page.url contains {{category}} %} current{% endif %}"><a href="{{ site.baseurl }}/{{ category }}">{{ category }}</a></li>
+    {% endfor %}
+		</ul>
+  </nav>
+</header>
