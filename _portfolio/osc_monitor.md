@@ -12,7 +12,7 @@ A very common problem I had when doing interactive installations, had to do with
 
 The interface was designed for a quick usage, filtering OSC messages by its *address* and showing the last values as them updates. Tt has a mode that allows see the history of messages in chronological order, and also has a simple OSC sender, which allows to send different types of values.
 
-I was published in the AppStore in 2015.
+It was published in the AppStore in 2015.
 
 ![screen 1](images/osc monitor/img1.jpg)
 ![screen 2](images/osc monitor/img2.jpg)
