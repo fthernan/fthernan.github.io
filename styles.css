@@ -112,11 +112,11 @@ main .overview {
 }
 
 .portfolio_item {
-	height: 200px;
+	height: 210px;
 	margin-bottom: 30px;
 }
 .portfolio_item > a {
-	height: 200px;
+	height: 205px;
 	text-align: center;
 	float: left;
 	font-weight: bold;
@@ -132,16 +132,17 @@ main .overview {
 .portfolio_item img {
 	display: block;
 	width: 100%;
-	height: 170px;
+	height: 175px;
   object-fit: cover;
 }
 .tags {
-	color: #555;
+	color: #777;
 	font-size: 0.75em;
 	text-align: center;
 }
 .right_img {
 	width: 40%;
+	margin: 0 0 10px 10px;
 	float: right;
 }
 

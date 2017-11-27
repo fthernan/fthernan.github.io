@@ -9,6 +9,6 @@ tags: [visualization, audio, art]
 
 # #Augmented Hand
 
-Augmented Hand is a concept, created by me, for an interface to interact with the virtual world using a wearable, similar to a glove. It consist in an small pack of sensors that first of all recognize with which object you want to interact with. After that, you can interact with that object using natural gestures with your hand.
+Augmented Hand is an experimental device created to enhance **human-computer interaction**. It consists in a wearable, similar to a glove, with a small pack of sensors -IR and an IMU- that can track the hand gestures and recognize objects when pointing them. After the recognition, it is capable of sending the data thought wifi to a IoT-enabled device.
 
-BLA BLA BLA To interact in a natural way with the virtual media.
+It allows independence of screens and VR-kits, providing a much more natural interaction between a human and a device.

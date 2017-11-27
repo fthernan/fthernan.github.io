@@ -3,6 +3,8 @@ layout: default
 ---
 # #portfolio
 
+<!-- {% assign categories = "Experience, Projects, Personal" | split: ", " %}
+{% for category in categories %}{% endfor %} -->
 <section>
 	{% assign items = site.portfolio | sort: "order" %}
 	{% for item in items %}
