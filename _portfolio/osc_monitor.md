@@ -8,9 +8,9 @@ tags: [app, engineering]
 ---
 # #OSC Monitor
 
-A very often problem I had when doing interactive installations, had to do with OSC messages. Debugging OSC was kind of hard, specially when working without a laptop or computer. That's why I decided to create an app.
+A very common problem I had when doing interactive installations, had to do with OSC messages. Debugging OSC was kind of hard, specially when working without a laptop or computer. That's why I decided to design and build an iPhone app that allows me to keep track of the OSC messages.
 
-Using a simple interface, allows the user to track values in OSC protocols, as well as sending custom messages to different devices.
+The interface was designed for a quick usage, filtering OSC messages by its *address* and showing the last values as them updates. Tt has a mode that allows see the history of messages in chronological order, and also has a simple OSC sender, which allows to send different types of values.
 
 I was published in the AppStore in 2015.
 
