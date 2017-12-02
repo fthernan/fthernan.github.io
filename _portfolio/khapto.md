@@ -22,7 +22,7 @@ The second most important area on the startup is the software development, my jo
 and the developing backend, frontend and the UI & UX design of the app in collaboration with the team.
 
 
-<!-- ![Image 1](images/khapto/img01.jpg) -->
+![Image 1](images/khapto/img01.jpg)
 
 ![Image 2](images/khapto/img02.jpg)
 
