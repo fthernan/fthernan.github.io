@@ -20,3 +20,15 @@ Even when I’m technically the CTO it’s well known that at startups, we have 
 
 The second most important area on the startup is the software development, my job was principally develop the frontend of the app for android devices, I was part of the UX research, so we interview and live part of the professional daily routine, then apply all the principles of the UI.
 and the developing backend, frontend and the UI & UX design of the app in collaboration with the team.
+
+
+<!-- ![Image 1](images/khapto/img01.jpg) -->
+
+![Image 2](images/khapto/img02.jpg)
+
+![Image 3](images/khapto/img03.jpg)
+
+![Credits](images/khapto/img04.jpg)
+
+Links
+- [Khapto website](http://www.khapto.com)
