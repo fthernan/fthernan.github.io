@@ -1,7 +1,7 @@
 ---
 title: Virtual dressing room
 category: Projects
-order: 3
+order: 2
 year: 2011
 thumbsize: 1
 tags: [visualization, interactive, body recognition]

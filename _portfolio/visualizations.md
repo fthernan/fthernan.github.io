@@ -1,7 +1,7 @@
 ---
 title: Visualizations
 category: Personal
-order: 8
+order: 10
 year: 2011-2017
 thumbsize: 1
 tags: [visualization, audio, art]

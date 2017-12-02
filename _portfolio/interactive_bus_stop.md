@@ -1,7 +1,7 @@
 ---
 title: Interactive bus stop
 category: Projects
-order: 10
+order: 3
 year: 2012
 thumbsize: 1
 tags: [visualization, interactive, electronics]

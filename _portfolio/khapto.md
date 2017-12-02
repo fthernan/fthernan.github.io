@@ -1,7 +1,7 @@
 ---
 title: Khapto
 category: Projects
-order: 5
+order: 6
 year: 2016
 thumbsize: 2
 tags: [design, prototyping, engineering]

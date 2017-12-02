@@ -1,7 +1,7 @@
 ---
 title: Monolith Controversies
 category: Projects
-order: 2
+order: 3
 year: 2016
 thumbsize: 1
 tags: [visualization, interactive, data analysis]

@@ -27,6 +27,12 @@ More videos of each visualization:
 </div>
 
 
+![Image 1](images/noe scl/img01.jpg)
+
+![Image 2](images/noe scl/img02.jpg)
+
+![Image 3](images/noe scl/img03.jpg)
+
 ![Credits](images/noe scl/img04.jpg)
 
 

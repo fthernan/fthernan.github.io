@@ -1,7 +1,7 @@
 ---
 title: OSC Monitor
 category: Personal
-order: 6
+order: 8
 year: 2015
 thumbsize: 1
 tags: [app, engineering]
