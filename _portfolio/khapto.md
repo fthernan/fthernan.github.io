@@ -28,7 +28,7 @@ and the developing backend, frontend and the UI & UX design of the app in collab
 
 ![Image 3](images/khapto/img03.jpg)
 
-![Credits](images/khapto/img04.jpg)
+![Image 4](images/khapto/img04.jpg)
 
 Links
 - [Khapto website](http://www.khapto.com)
