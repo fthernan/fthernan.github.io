@@ -1,6 +1,6 @@
 ---
 title: CMN Mobile App
-category: Personal
+category: Experience
 order: 5
 year: 2011-2017
 thumbsize: 1

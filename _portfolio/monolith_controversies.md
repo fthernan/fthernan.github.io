@@ -1,6 +1,6 @@
 ---
 title: Monolith Controversies
-category: Projects
+category: Experience
 order: 3
 year: 2016
 thumbsize: 1

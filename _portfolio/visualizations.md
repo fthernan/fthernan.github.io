@@ -1,6 +1,6 @@
 ---
 title: Visualizations
-category: Personal
+category: Projects
 order: 10
 year: 2011-2017
 thumbsize: 1

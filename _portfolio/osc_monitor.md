@@ -1,6 +1,6 @@
 ---
 title: OSC Monitor
-category: Personal
+category: Projects
 order: 8
 year: 2015
 thumbsize: 1

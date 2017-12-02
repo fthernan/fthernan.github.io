@@ -1,6 +1,6 @@
 ---
 title: Visible audio
-category: Personal
+category: Projects
 order: 7
 year: 2014
 thumbsize: 1

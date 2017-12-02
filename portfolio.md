@@ -3,10 +3,11 @@ layout: default
 ---
 # #portfolio
 
-<!-- {% assign categories = "Experience, Projects, Personal" | split: ", " %}
-{% for category in categories %}{% endfor %} -->
+{% assign categories = "Experience, Projects" | split: ", " %}
+{% for category in categories %}
 <section>
-	{% assign items = site.portfolio | sort: "order" %}
+	<h3>{{ category }}</h3>
+	{% assign items = site.portfolio | where: "category", category | sort: "order" %}
 	{% for item in items %}
 	<div class="portfolio_item thumb_size_{{ item.thumbsize }}">
 	  <a href="{{ item.url | prepend: site.baseurl }}">
@@ -17,3 +18,4 @@ layout: default
 	</div>
 	{% endfor %}
 </section>
+{% endfor %}

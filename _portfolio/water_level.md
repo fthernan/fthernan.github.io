@@ -1,6 +1,6 @@
 ---
 title: Water level system
-category: Personal
+category: Projects
 order: 9
 year: 2011-2017
 thumbsize: 1

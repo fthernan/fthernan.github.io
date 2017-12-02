@@ -102,6 +102,12 @@ main .overview {
 	float: right;
 }
 
+section h3 {
+	width: 100%;
+	text-align: center;
+	padding: 10px 0;
+}
+
 .thumb_size_1 {
 	width: 47%;
 }

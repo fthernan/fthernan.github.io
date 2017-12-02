@@ -1,6 +1,6 @@
 ---
 title: Interactive bus stop
-category: Projects
+category: Experience
 order: 3
 year: 2012
 thumbsize: 1

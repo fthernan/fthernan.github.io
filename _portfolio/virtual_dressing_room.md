@@ -1,6 +1,6 @@
 ---
 title: Virtual dressing room
-category: Projects
+category: Experience
 order: 2
 year: 2011
 thumbsize: 1

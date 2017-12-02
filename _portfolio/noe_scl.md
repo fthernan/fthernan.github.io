@@ -1,6 +1,6 @@
 ---
 title: NOE SCL
-category: Projects
+category: Experience
 order: 1
 year: 2016
 thumbsize: 2
