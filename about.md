@@ -9,4 +9,4 @@ I am an artist, coder, and physicist who love to understand how things work and 
 
 I like making things with electronics, computer vision, machine learning and cutting-edge technology, but I'm also a self-taught accordionist and watercolor painter. I am really passionate about mixing arts and science, specially in fields like **data visualization & analysis, human-computer interaction, wearable interfaces and computer vision.**.
 
-Download my CV [Here](http://fthernan.github.com/about/#)
+Download my CV [Here](https://fthernan.github.com/assets/CV-Francisco_Hernandez.pdf)
