@@ -2,7 +2,7 @@
 title: NOE SCL
 category: Experience
 order: 1
-year: 2016
+year: 2012-2013
 thumbsize: 2
 tags: [visualization, interactive, data analysis]
 ---

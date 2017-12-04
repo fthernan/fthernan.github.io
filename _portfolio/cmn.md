@@ -2,7 +2,7 @@
 title: CMN Mobile App
 category: Experience
 order: 5
-year: 2011-2017
+year: 2015
 thumbsize: 1
 tags: [visualization, audio, art]
 ---

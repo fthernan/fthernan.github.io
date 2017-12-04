@@ -2,7 +2,7 @@
 title: Visible audio
 category: Projects
 order: 7
-year: 2014
+year: 2017
 thumbsize: 1
 tags: [interactive, audio, art]
 ---
