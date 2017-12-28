@@ -8,6 +8,7 @@ tags: [design, prototyping, engineering]
 ---
 # #Khapto
 
+
 ![Logo Khapto](images/khapto/thumb.jpg)
 
 *Smart solutions for smart results.*
@@ -23,15 +24,15 @@ Even when I’m technically the CTO it’s well known that at startups, we have 
 The second most important area on the startup is the software development, my job was principally develop the frontend of the app for android devices, I was part of the UX research, so we interview and live part of the professional daily routine, then apply all the principles of the UI.
 and the developing backend, frontend and the UI & UX design of the app in collaboration with the team.
 
-&nbsp;
-<div class="lightbox_container">
-	{% lightbox images/khapto/img00.jpg --thumb="images/khapto/img00.jpg" --data="khapto_image_set" --title="Khaptos" %}
-	{% lightbox images/khapto/img01.jpg --thumb="images/khapto/img01.jpg" --data="khapto_image_set" --title="Using Khapto" %}
-	{% lightbox images/khapto/img02.jpg --thumb="images/khapto/img02.jpg" --data="khapto_image_set" --title="Designing the PCB" %}
-	{% lightbox images/khapto/img03.jpg --thumb="images/khapto/img03.jpg" --data="khapto_image_set" --title="Working with the schematics" %}
-	{% lightbox images/khapto/img04.jpg --thumb="images/khapto/img04.jpg" --data="khapto_image_set" --title="Designing the app" %}
-</div>
-&nbsp;
+![Image 0](images/khapto/img00.jpg)
+
+![Image 1](images/khapto/img01.jpg)
+
+![Image 2](images/khapto/img02.jpg)
+
+![Image 3](images/khapto/img03.jpg)
+
+![Image 4](images/khapto/img04.jpg)
 
 Links
 - [Khapto website](http://khapto.com)
