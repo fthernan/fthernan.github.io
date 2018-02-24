@@ -4,7 +4,7 @@ category: Projects
 order: 0
 year: 2017
 thumbsize: 2
-tags: [design, prototyping, engineering]
+tags: [machine learning, prototyping, engineering]
 ---
 # #Hip implant classifier
 
