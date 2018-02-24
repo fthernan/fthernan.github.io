@@ -34,7 +34,7 @@ The results of the detector were highly satisfactory
 
 ## Hip implant aligner
 
-After obtaining the boundingbox of the image, a CNN was trained to find the ends of the implant and thus align the image.
+After obtaining the bounding box of the image, a CNN was trained to find the ends of the implant and thus align the image.
 
 To align the image, the following architecture was used.
 
