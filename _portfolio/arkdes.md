@@ -21,14 +21,14 @@ The apps were made with openFrameworks.
 
 &nbsp;
 
-![Image 1](images/arkdes/screenshot01.png)
+![Image 1](images/flying%20panels%20exhibition/screenshot01.png)
 
 
-![Image 2](images/arkdes/screenshot02.png)
+![Image 2](images/flying%20panels%20exhibition/screenshot02.png)
 
 
-![Image 3](images/arkdes/photo01.jpg)
+![Image 3](images/flying%20panels%20exhibition/photo01.jpg)
 
 
-![Image 4](images/arkdes/photo02.jpg)
+![Image 4](images/flying%20panels%20exhibition/photo02.jpg)
 
