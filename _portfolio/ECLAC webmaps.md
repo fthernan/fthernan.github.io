@@ -36,7 +36,7 @@ The visualization allows options such as:
 
 Some other options such as printing, real-time language change, additional helper layers, were also added.
 
-The authorization to add images and screenshots of the project is being processed. As soon as they authorize me, I will upload the images here.
+**The authorization to add images and screenshots of the project is being processed. As soon as they authorize me, I will upload the images here.**
 
 <!---
 ![Screen 02](images/ECLAC%20webmaps/screen02.png)
