@@ -1,12 +1,12 @@
 ---
-title: ECLAC webmaps
+title: ECLAC web maps
 category: Experience
 order: 7
 year: 2020
 thumbsize: 1
 tags: [maps, GIS, geographic data, programming]
 ---
-# #ECLAC webmaps
+# #ECLAC web maps
 
 I was hired as a consultant for the development of a web geographic data viewer. The project was commissioned by the ECLAC (United Nations Economic Commission for Latin America and the Caribbean) and consisted of a map viewer for its REDATAM webserver software, for 4 types of data: segregation, mobility, migrations and general indicators.
 
@@ -39,6 +39,6 @@ Some other options such as printing, real-time language change, additional helpe
 **The authorization to add images and screenshots of the project is being processed. As soon as they authorize me, I will upload the images here.**
 
 <!---
-![Screen 02](images/ECLAC%20webmaps/screen02.png)
+![Screen 02](images/eclac%20web%20maps/screen02.png)
 *In order to improve the speed of the scraping, I used a multithreading downloading and processing*
 -->
