@@ -4,7 +4,7 @@ category: Experience
 order: 5
 year: 2019
 thumbsize: 1
-tags: [visualization, audio, art]
+tags: [visualization, maps, geographic data, art]
 ---
 
 # #Flying Panels exhibition
