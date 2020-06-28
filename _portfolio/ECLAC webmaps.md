@@ -1,6 +1,6 @@
 ---
 title: ECLAC webmaps
-category: Projects
+category: Experience
 order: 7
 year: 2017
 thumbsize: 1
