@@ -146,6 +146,7 @@ section h3 {
 	text-align: center;
 	float: left;
 	font-weight: bold;
+	width: 100%;
 }
 .portfolio_item > a:hover {
 	/*color: white;*/
